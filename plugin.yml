@@ -1,0 +1,9 @@
+name: NotificationPlus
+main: ifteam\NotificationPlus\NotificationPlus
+version: 0.2-Alpha
+author: ifteam
+api:
+- 1.4.1
+- 1.12.0
+- 1.13.0
+- 2.0.0
